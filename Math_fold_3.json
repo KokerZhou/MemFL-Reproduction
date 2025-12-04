@@ -1,0 +1,166 @@
+{
+    "project": "Math",
+    "folds": [
+        {
+            "fold": 1,
+            "test": [
+                "57",
+                "66",
+                "17",
+                "51",
+                "40",
+                "97",
+                "53",
+                "92",
+                "65",
+                "78",
+                "104",
+                "9",
+                "81",
+                "22",
+                "56",
+                "4",
+                "96",
+                "23",
+                "27",
+                "83",
+                "105",
+                "29"
+            ],
+            "memory_path": [
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_1/stage_0/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_1/stage_1/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_1/stage_2/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_1/stage_3/"
+			]
+        },
+        {
+            "fold": 2,
+            "test": [
+                "59",
+                "85",
+                "32",
+                "28",
+                "20",
+                "90",
+                "5",
+                "70",
+                "1",
+                "42",
+                "11",
+                "10",
+                "87",
+                "34",
+                "18",
+                "55",
+                "58",
+                "72",
+                "68",
+                "79",
+                "74"
+            ],
+            "memory_path": [
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_2/stage_0/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_2/stage_1/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_2/stage_2/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_2/stage_3/"
+			]
+        },
+        {
+            "fold": 3,
+            "test": [
+                "52",
+                "64",
+                "25",
+                "8",
+                "39",
+                "36",
+                "71",
+                "103",
+                "102",
+                "84",
+                "7",
+                "98",
+                "26",
+                "3",
+                "86",
+                "101",
+                "6",
+                "48",
+                "41",
+                "69",
+                "60"
+            ],
+            "memory_path": [
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_3/stage_0/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_3/stage_1/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_3/stage_2/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_3/stage_3/"
+			]
+        },
+        {
+            "fold": 4,
+            "test": [
+                "91",
+                "33",
+                "54",
+                "49",
+                "93",
+                "16",
+                "13",
+                "63",
+                "37",
+                "15",
+                "46",
+                "99",
+                "30",
+                "61",
+                "35",
+                "31",
+                "76",
+                "94",
+                "75",
+                "24",
+                "2"
+            ],
+            "memory_path": [
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_4/stage_0/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_4/stage_1/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_4/stage_2/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_4/stage_3/"
+			]
+        },
+        {
+            "fold": 5,
+            "test": [
+                "38",
+                "50",
+                "21",
+                "89",
+                "67",
+                "47",
+                "88",
+                "95",
+                "80",
+                "44",
+                "19",
+                "12",
+                "43",
+                "62",
+                "14",
+                "45",
+                "100",
+                "77",
+                "73",
+                "82",
+                "106"
+            ],
+            "memory_path": [
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_5/stage_0/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_5/stage_1/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_5/stage_2/",
+                 "/home/##/ttr/mem/data/Math/memory/fl_test_3/fold_5/stage_3/"
+			]
+        }
+    ]
+}

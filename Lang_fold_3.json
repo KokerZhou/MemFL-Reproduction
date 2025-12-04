@@ -1,0 +1,121 @@
+{
+    "project": "Lang",
+    "folds": [
+        {
+            "fold": 1,
+            "test": [
+                "60",
+                "52",
+                "7",
+                "64",
+                "59",
+                "58",
+                "44",
+                "49",
+                "14",
+                "17",
+                "56",
+                "46",
+                "50"
+            ],
+            "memory_path": [
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_1/stage_0/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_1/stage_1/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_1/stage_2/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_1/stage_3/"
+			]
+        },
+        {
+            "fold": 2,
+            "test": [
+                "24",
+                "61",
+                "65",
+                "11",
+                "37",
+                "42",
+                "51",
+                "3",
+                "13",
+                "22",
+                "39",
+                "23"
+            ],
+            "memory_path": [
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_2/stage_0/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_2/stage_1/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_2/stage_2/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_2/stage_3/"
+			]
+        },
+        {
+            "fold": 3,
+            "test": [
+                "57",
+                "32",
+                "10",
+                "38",
+                "62",
+                "1",
+                "30",
+                "41",
+                "43",
+                "53",
+                "26",
+                "45"
+            ],
+            "memory_path": [
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_3/stage_0/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_3/stage_1/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_3/stage_2/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_3/stage_3/"
+			]
+        },
+        {
+            "fold": 4,
+            "test": [
+                "20",
+                "29",
+                "16",
+                "40",
+                "8",
+                "12",
+                "31",
+                "19",
+                "33",
+                "55",
+                "36",
+                "6"
+            ],
+            "memory_path": [
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_4/stage_0/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_4/stage_1/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_4/stage_2/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_4/stage_3/"
+			]
+        },
+        {
+            "fold": 5,
+            "test": [
+                "15",
+                "5",
+                "28",
+                "54",
+                "63",
+                "34",
+                "4",
+                "27",
+                "21",
+                "9",
+                "47",
+                "35"
+            ],
+            "memory_path": [
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_5/stage_0/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_5/stage_1/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_5/stage_2/",
+                 "/home/##/ttr/mem/data/Lang/memory/fl_test_3/fold_5/stage_3/"
+			]
+        }
+    ]
+}
